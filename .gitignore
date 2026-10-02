@@ -1,0 +1,10 @@
+# Ignore the Python virtual environment drawer
+.venv/
+__pycache__/
+*.pyc
+
+# Ignore temporary local data/models
+data/
+*.joblib
+*.pkl
+.DS_Store
